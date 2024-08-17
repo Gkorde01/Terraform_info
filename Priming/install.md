@@ -1,5 +1,7 @@
 Installing Terraform involves a few straightforward steps. Here’s a guide for different operating systems:
 
+https://developer.hashicorp.com/terraform/install
+
 For Windows:
 Download Terraform:
 
